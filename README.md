@@ -13,7 +13,7 @@ A responsive weather search app built with React and the OpenWeather API.
 - CSS (custom styling)
 
 ## Live Demo
-*(Link will be added after deployment)*
+https://weather-app-sand-delta-23.vercel.app
 
 ## Run Locally
 Clone the project and install dependencies:
